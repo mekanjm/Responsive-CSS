@@ -1,0 +1,16 @@
+*{margin: 0;}
+body{
+    background-color: teal;
+
+}
+ul{
+    position: absolute;
+    left: calc(35%);
+
+}
+ul li{
+    display: inline-block;
+    background: tomato;
+    margin-right: 15px;
+    font-size: x-large;
+}
